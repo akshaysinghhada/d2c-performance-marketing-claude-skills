@@ -1,0 +1,13 @@
+{
+  "name": "d2c-performance-marketing",
+  "description": "Seven Claude skills for Indian D2C performance marketers: true break-even ROAS after COD, RTO and GST; a daily Meta ads report with scale, keep, watch and kill verdicts; a ROAS drop diagnosis; Meta vs Shopify attribution reconciliation; an RTO reduction plan; a festive and wedding season campaign planner; and Hinglish ad hooks with a Reel pack.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Akshay Singh Hada",
+    "url": "https://akshaysinghhada.com"
+  },
+  "homepage": "https://github.com/akshaysinghhada/d2c-performance-marketing-claude-skills",
+  "repository": "https://github.com/akshaysinghhada/d2c-performance-marketing-claude-skills",
+  "license": "MIT",
+  "keywords": ["d2c", "performance-marketing", "meta-ads", "roas", "rto", "cod", "india", "ecommerce", "hinglish", "marketing"]
+}
