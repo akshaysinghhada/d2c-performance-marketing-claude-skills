@@ -115,6 +115,8 @@ Profit per order at the ROAS Meta shows
 
 Meta would call a 2.5 ROAS "fine". At these numbers it loses ₹26 on every order.
 
+No Claude yet? Try the same maths in the free [browser calculator](https://akshaysinghhada.com/break-even-roas-calculator/).
+
 **`meta_report.py`: what to do today** (on [`sample-meta-export.csv`](skills/d2c-daily-ads-report/sample-meta-export.csv))
 
 ```
@@ -146,6 +148,7 @@ TOO EARLY: 1 row, Rs 300 spend
 
 ## Read more
 
+- [Break even ROAS calculator for Indian D2C](https://akshaysinghhada.com/break-even-roas-calculator/), the web version of `d2c-true-roas`
 - [8 best free Claude skills on GitHub for marketers](https://akshaysinghhada.com/claude-skills-for-marketers/), and how to check any skill before you install it
 - [Instagram AI automation with Claude](https://akshaysinghhada.com/instagram-ai-automation-claude/), tested on real jewellery hooks
 - [Claude SEO plugin guide](https://akshaysinghhada.com/claude-seo-plugin/)
